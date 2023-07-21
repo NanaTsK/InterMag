@@ -1,1 +1,1 @@
-// this is js page
+import products from "./data/products.js";
